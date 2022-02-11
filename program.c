@@ -1,10 +1,3 @@
-// b161210045 Mert Genç 1A
-// b161210102 Kubilay Kaynan 1A
-// g171210393 Melih Erpek 1A
-// g171210303 Furkan Koç 2A
-
-// İşletim Sistemleri Proje Ödevi
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
